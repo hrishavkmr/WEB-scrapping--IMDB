@@ -1,5 +1,5 @@
 # WEB-scrapping--IMDB
-#Library required
+# Library required
  1. smtplib
  2. requests
  3. bs4 or beautiful soup
